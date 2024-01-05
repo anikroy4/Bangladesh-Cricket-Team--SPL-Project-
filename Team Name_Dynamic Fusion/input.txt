@@ -1,0 +1,43 @@
+6
+
+Mehidy Hasan Miraz
+25
+All rounder
+70
+775
+100
+
+Mohammad Mushfiqur Rahim
+35
+Wicketkeeper Batter
+243
+6945
+144
+
+Mohammad Mahmudullah
+37
+All rounder
+218
+4950
+128
+
+Mustafizur Rahman
+27
+Bowler
+86
+3531
+142
+
+Shakib Al Hasan
+35
+All rounder
+228
+7069
+134
+
+Tamim Iqbal Khan
+33
+Opening Batter
+235
+8146
+158
